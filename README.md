@@ -1,4 +1,4 @@
-> Welcome to our project on numerical optimization methods. If you are interested in a brief glimpse of our project, take a look below. The full research paper and python notebooks are available as well.
+> Welcome to our project on numerical optimization methods. If you are interested in a brief glimpse of our project, take a look below. The full research paper and python notebook are available as well.
 
 # Quasi-Newton Methods for Optimization
 ### Walter Virany, Ryan Foley
